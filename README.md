@@ -4,9 +4,9 @@ Install dependencies:
   pip install openai azure-ai-formrecognizer azure-ai-textanalytics requests
 
 Set Environment Variable
-  export GITHUB_TOKEN=<your-github-pat>
-  export GITHUB_REPO="your-org/your-repo"
-  export GITHUB_USERNAME="your-username"
+  export GITHUB_TOKEN=<github-pat>
+  export GITHUB_REPO="org/repo"
+  export GITHUB_USERNAME="username"
 
 
 What this orchestrator solution does -
