@@ -8,7 +8,6 @@ Set Environment Variable
   export GITHUB_REPO="org/repo"
   export GITHUB_USERNAME="username"
 
-
 What this orchestrator solution does -
   * Clones your GitHub repo securely
   * Creates a timestamped feature branch
