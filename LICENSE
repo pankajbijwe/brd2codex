@@ -1,0 +1,12 @@
+Custom License: AGPL-3.0-Modified
+
+This software is based on the GNU Affero General Public License v3 (AGPL-3.0),
+with the following modifications:
+
+1. Forking is permitted for non-commercial, educational, or personal use.
+2. Cloning the repository for public redistribution or mirroring is prohibited.
+3. Commercial use, including SaaS deployment, resale, or integration into paid products, is strictly forbidden without explicit written permission.
+
+All other terms of AGPL-3.0 apply.
+
+Full AGPL-3.0 text: https://www.gnu.org/licenses/agpl-3.0.txt
