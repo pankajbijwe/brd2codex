@@ -1,4 +1,4 @@
-# brd2codex
+# BRD2CodeX
 Automate the end-to-end process of enhancing a Spring Boot Java application based on Business Requirement Documents (BRD). It leverages Azure OpenAI (GPT-4) to interpret rules and automatically generate, commit, and propose code changes via GitHub.
 
 # Prerequisites
